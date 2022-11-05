@@ -58,13 +58,14 @@ Eventually, I hope you'd help with segregating these into categories of how reli
 * https://supersourcing.com/
 * https://gun.io/
 * https://lemon.io/
-* https://youteam.io/ (rude)
+* https://youteam.io/ (a platform [lacking maturity](https://youteam.io/blog/offshore-web-development-companies-in-india-do-they-stack-up-against-other-low-cost-options/))
 * https://www.starkflow.co/
 * USA only: https://www.pathrise.com/
 * https://4dayweek.io/remote-jobs
 * https://codecombat.com/
 * https://www.devteam.space/
 * https://www.skilledup.life/
+* https://worknhire.com/
   
 ## Website testing  
 * https://www.usertesting.com/
