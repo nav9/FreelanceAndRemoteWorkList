@@ -1,8 +1,8 @@
 During my [eye strain days](https://nrecursions.blogspot.com/2020/11/the-real-cure-for-eye-strain.html), I kept a list of websites for finding freelance work. When I noticed [this person's repository](https://github.com/yanirs/established-remote), I felt it would be good to share my list too, to help others, because articles that list freelance websites only bother putting up something like a top-ten list, and I know how difficult it is to find opportunities. It's even more difficult to find good projects that pay well, and employers who treat you fairly. I still don't understand why people haven't created a platform where we would not have to apply for jobs. An algorithm should find jobs for us based on our skills, experience and our current workload.   
   
-The lists below are not vetted. I don't know which of them are good and which aren't. Perhaps the [discussions page](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) can help with that. If you find any issues with the platforms mentioned below or you'd like to contribute to this by converting this repository to a [GitHub wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) or if you have any other useful info or feedback to share, please do.  
+The lists below are not fully vetted. Perhaps the [discussions page](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) can help with that. If you find any issues with the platforms mentioned below or you'd like to contribute to this by converting this repository to a [GitHub wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) or if you have any other useful info or feedback to share, please do.  
   
-Eventually, I hope you'd help with segregating these into categories of how reliable they are, how well they pay, and which types of freelancers they best cater to. It needs to be updated too.  
+Eventually, I hope you'd help with segregating these into categories of how reliable they are, how well they pay, and which types of freelancers they best cater to. It needs to be kept up-to-date too.  
   
 # Opportunities 
 ## General 
