@@ -1,9 +1,37 @@
-I used to keep a private list of websites for finding freelance work. When I noticed [this person's repository](https://github.com/yanirs/established-remote), I felt it would be good to put up my list publicly so that it'd be helpful for others, because websites that list freelance websites only bother putting up something like a top-ten list, and I know how difficult it is to find opportunities. It's even more difficult to find good projects that pay well, and people who treat you fairly. I still don't understand why people haven't created a platform where we would not have to apply for jobs. An AI should find jobs for us based on our skills, experience and our current workload.   
+During my [eye strain days](https://nrecursions.blogspot.com/2020/11/the-real-cure-for-eye-strain.html), I kept a list of websites for finding freelance work. When I noticed [this person's repository](https://github.com/yanirs/established-remote), I felt it would be good to share my list too, to help others, because articles that list freelance websites only bother putting up something like a top-ten list, and I know how difficult it is to find opportunities. It's even more difficult to find good projects that pay well, and employers who treat you fairly. I still don't understand why people haven't created a platform where we would not have to apply for jobs. An algorithm should find jobs for us based on our skills, experience and our current workload.   
   
-The lists below are not vetted. I don't know which of them are good and which aren't. Perhaps the [discussions page](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) can help with that. If you find any issues with the platforms mentioned below or you'd like to contribute to this by converting this repository to a GitHub wiki or if you have any other useful info or feedback to share with me or anyone else, please do share.  
+The lists below are not vetted. I don't know which of them are good and which aren't. Perhaps the [discussions page](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) can help with that. If you find any issues with the platforms mentioned below or you'd like to contribute to this by converting this repository to a [GitHub wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) or if you have any other useful info or feedback to share, please do.  
   
-# Opportunities:  
-## For software programmers:  
+Eventually, I hope you'd help with segregating these into categories of how reliable they are, how well they pay, and which types of freelancers they best cater to. It needs to be updated too.  
+  
+# Opportunities 
+## General 
+* https://angel.co/ 
+* https://gumroad.com/pricing
+* https://www.upwork.com/
+* https://www.fiverr.com/
+* https://www.guru.com/
+* https://www.freelancer.com/
+* https://www.peopleperhour.com/
+* https://working-nomads.com/
+* https://solidgigs.com/
+* https://www.bark.com/en/in/
+* https://jointohire.com/
+* https://www.freelancingteams.com/
+* https://www.vicoland.com/freelancer/
+* https://www.freelancermap.com/freelancers-directory.html
+* https://www.truelancer.com/freelance-jobs
+* https://elevatex.de/freelance/
+* https://flexiple.com/
+* https://www.crowdplat.com/freelancing.html
+* https://www.onbenchmark.com/
+* https://www.workana.com/
+* https://www.twago.com/
+* https://www.devteam.space/
+* https://www.freelancer.in
+* https://flippa.com/
+  
+## For software programmers
 * https://www.outsourcely.com/
 * https://hasjob.co/
 * https://www.keyvalues.com/
@@ -38,14 +66,14 @@ The lists below are not vetted. I don't know which of them are good and which ar
 * https://www.devteam.space/
 * https://www.skilledup.life/
   
-## Website testing:  
+## Website testing  
 * https://www.usertesting.com/
 * https://enrollapp.com/
 * https://www.respondent.io/
 * https://www.userfeel.com/
 * https://www.userlytics.com/
 
-## For writers:  
+## For writers  
 * https://www.clearvoice.com/blog/how-much-to-pay-a-freelance-writer/
 * https://www.contena.co/
 * https://contently.com/
@@ -62,8 +90,8 @@ The lists below are not vetted. I don't know which of them are good and which ar
 * https://www.ndash.com/
 * https://powerpublish.io/
   
-## For interview engineers:  
-The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%.
+## For interview engineers  
+The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%.  
 * https://www.eteki.com/
 * https://incruiter.com/
 * https://interviewvector.com/
@@ -79,33 +107,9 @@ The sad part of many of these platforms, is that they do not pay well. Many take
 * https://karat.com/
 * https://www.skilledinc.com/
 
-## Business:
+## Business
 * https://businesstalentgroup.com/
 * https://cofounderslab.com/
   
-## General: 
-* https://angel.co/ 
-* https://gumroad.com/pricing
-* https://www.upwork.com/
-* https://www.fiverr.com/
-* https://www.guru.com/
-* https://www.freelancer.com/
-* https://www.peopleperhour.com/
-* https://working-nomads.com/
-* https://solidgigs.com/
-* https://www.bark.com/en/in/
-* https://jointohire.com/
-* https://www.freelancingteams.com/
-* https://www.vicoland.com/freelancer/
-* https://www.freelancermap.com/freelancers-directory.html
-* https://www.truelancer.com/freelance-jobs
-* https://elevatex.de/freelance/
-* https://flexiple.com/
-* https://www.crowdplat.com/freelancing.html
-* https://www.onbenchmark.com/
-* https://www.workana.com/
-* https://www.twago.com/
-* https://www.devteam.space/
-* https://www.freelancer.in
-* https://flippa.com/
+
 

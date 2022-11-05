@@ -1,2 +1,2 @@
 # softwareFreelanceAndRemoteJobs
-A collection of opportunities available for freelancers and remote workers. The emphasis is on listing reliable platforms/companies where people can find work or post job opportunities. 
+A collection of opportunities available for freelancers and remote workers. The emphasis is on listing reliable platforms/companies where people can find work or post job opportunities. As of now the listings are not vetted. With the help of the online community, I hope this could become a more reliable list so that it'd help people who are looking for jobs and so that it'd also help freelance platforms build healthy experiences for employers and workers.
