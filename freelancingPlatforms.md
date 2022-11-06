@@ -2,8 +2,6 @@ During my [eye strain days](https://nrecursions.blogspot.com/2020/11/the-real-cu
   
 The lists below are not fully vetted. Perhaps the [discussions page](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) can help with that. If you find any issues with the platforms mentioned below or you'd like to contribute to this by converting this repository to a [GitHub wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) or if you have any other useful info or feedback to share, please do.  
   
-Eventually, I hope you'd help with segregating these into categories of how reliable they are, how well they pay, and which types of freelancers they best cater to. It needs to be kept up-to-date too.  
-  
 # Opportunities 
 ## General 
 * https://angel.co/ 
@@ -75,10 +73,10 @@ Eventually, I hope you'd help with segregating these into categories of how reli
 * https://www.userlytics.com/
 
 ## For writers  
-* https://www.clearvoice.com/blog/how-much-to-pay-a-freelance-writer/
 * https://www.contena.co/
 * https://contently.com/
 * https://outrider.org/
+* Technical: https://www.linode.com/lp/write-for-linode/
 * Culinary: https://lifeandthyme.com/contribute/
 * https://www.vox.com/pages/how-to-pitch-vox-pitching-guidelines
 * https://ssir.org/about/submission_guidelines
@@ -86,18 +84,19 @@ Eventually, I hope you'd help with segregating these into categories of how reli
 * https://longreads.com/submissions/
 * https://www.ptotoday.com/pto-today-submission-guidelines
 * https://www.americanangler.com/wp-content/cache/page_enhanced/www.americanangler.com/submissions/_index.html
+* https://www.clearvoice.com/blog/how-much-to-pay-a-freelance-writer/
 * https://www.freelancewriting.com/
 * https://www.writeraccess.com/
 * https://www.ndash.com/
 * https://powerpublish.io/
   
 ## For interview engineers  
-The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%.  
-* https://www.eteki.com/
+The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%. One of these platforms charged clients $25 per interview, and paid interviewers less than $9.  
 * https://incruiter.com/
 * https://interviewvector.com/
 * https://www.cybermeru.com/services/interview-as-a-service/
 * https://www.expertlead.com/expertview
+* https://www.eteki.com/
 * https://www.screenit.io/technical-interviewer-platform.html
 * https://hirehunch.com/join-as-interviewer
 * https://www.upwork.com/hire/interviewers/
@@ -108,9 +107,15 @@ The sad part of many of these platforms, is that they do not pay well. Many take
 * https://karat.com/
 * https://www.skilledinc.com/
 
+## For bug bounty hunters 
+There are some sites like [this](https://www.bugbountyhunter.com/) that teach it. An internet search for "bug bounty programs" will show more.   
+* https://www.bugcrowd.com/bug-bounty-list/
+* https://hackerone.com/bug-bounty-programs
+
 ## Business
 * https://businesstalentgroup.com/
 * https://cofounderslab.com/
   
-
+**Why share this list?**
+While you may fear that sharing the list increases competition, it actually helps keep these platforms alive. So in the event of mass-layoffs by companies, you will be able to find freelance gigs and survive. Hopefully, it'd also make employers treat employees better. Eventually, I hope you'd help with segregating these into categories of how reliable they are, how well they pay, and which types of freelancers they best cater to. This list needs to be kept up-to-date too.   
 
