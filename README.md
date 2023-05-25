@@ -1,4 +1,4 @@
-# softwareFreelanceAndRemoteJobs
+# Software Freelance And Remote Work List
 A collection of opportunities available for freelancers and remote workers. The eventual aim would be to list reliable platforms/companies where people can find work or post job opportunities. As of now not all the listings are vetted. With the help of the online community, I hope this could become a more reliable list so that it'd help people who are looking for jobs and so that it'd also help freelance platforms build healthy experiences for employers and workers. Sharing the list helps keeps these platforms alive, so in the event of mass layoffs, people will be able to find freelance gigs to survive.
 
 I started building this list when I realized that most software companies pit employees against each other and create toxic environments where speed of execution is more important than cooperation, stable code and health. After finding [The Real Cure for Eye Strain](https://nrecursions.blogspot.com/2020/11/the-real-cure-for-eye-strain.html), it became even more important to find opportunities that helped protect my health.
