@@ -34,7 +34,12 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.freelancer.in  
 * https://flippa.com/  
 * https://authenticjobs.com/  
-* https://contra.com/   
+* https://contra.com/
+* https://www.xing.com
+* https://www.bark.com/en/in/sellers/create/
+* https://www.jobcase.com/
+* https://www.flexjobs.com/
+* https://www.zippia.com/
   
 # For software programmers  
 * https://www.outsourcely.com/  
@@ -51,7 +56,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://crewscale.com/  
 * https://www.turing.com/  
 * https://weworkremotely.com/  
-* https://www.flexjobs.com/  
 * https://www.codementor.io/software-architect-experts  
 * Sell code: https://git.market/about  
 * https://codecanyon.net/  
