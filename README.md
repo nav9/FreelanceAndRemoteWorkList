@@ -84,7 +84,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * Latin America: https://clouddevs.com/  
 * France: https://www.comet.co/  
 * https://supersourcing.com/ (possibly good)  
-* https://gun.io/ (possibly good)  
+* https://gun.io/   
 * https://lemon.io/ (possibly good)  
 * https://youteam.io/ (strangely [rude and ignorant writeup](https://youteam.io/blog/offshore-web-development-companies-in-india-do-they-stack-up-against-other-low-cost-options/))  
 * https://www.starkflow.co/ (possibly good)  
@@ -135,10 +135,10 @@ Attribution: Some of these I found [here](https://writingcooperative.com/10-paid
 * https://www.ptotoday.com/pto-today-submission-guidelines  
 * https://www.americanangler.com/wp-content/cache/page_enhanced/www.americanangler.com/submissions/_index.html  
 * https://www.clearvoice.com/blog/how-much-to-pay-a-freelance-writer/  
-* https://www.freelancewriting.com/  
+* https://www.freelancewriting.com/ (poor website and support)  
 * https://www.writeraccess.com/  
 * https://www.ndash.com/  
-* https://powerpublish.io/  
+* https://powerpublish.io/ (appears to provide no extra mediation support)  
   
 # For interview engineers  
 The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%. For example, one charged clients $25 per interview, and offered interviewers less than $9.  
