@@ -203,4 +203,4 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * **Pointless tests:** Some platforms expect freelancers to complete pointless tests to prove their skill. These are an incredible waste of time. The better way is to connect them with a lower paying client and inform the client that it’s a person new to the platform. Providing opportunities to recover from failure and build confidence, goes a long way.  
 * **Reputation:** It’s not just the freelancer’s reputation you need to show on the platform. You should have the spine to show even the client’s reputation, so that they don’t exploit freelancers.  
 
-  [![Donate](https://raw.githubusercontent.com/nav9/VCF_contacts_merger/main/gallery/thankYouDonateButton.png)](https://nrecursions.blogspot.com/2020/08/saying-thank-you.html)  
+
