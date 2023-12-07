@@ -191,6 +191,7 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * [Yanir’s repository](https://github.com/yanirs/established-remote).
 * [Brad’s list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be).
 * Homeworkingclub has [this](https://www.homeworkingclub.com/companies-that-hire-homeworkers/) and [this](https://www.homeworkingclub.com/online-jobs/%20Interviews:%20https://remotehabits.com/interviews/) for jobs in tech firms, healthcare, customer service, travel, secretary, translation/transcription, finance, non-profit, writing and editing, foreign languages, sales, education, HR, crypto, creatives and personal development. There’s [this](https://www.homeworkingclub.com/paid-market-research/) for paid market research, [this](https://www.homeworkingclub.com/best-survey-sites/) for survey sites, [this](https://www.homeworkingclub.com/sites-like-mturk/) for micro-work, and [this](https://www.homeworkingclub.com/online-side-jobs/) for other side-jobs.
+* Malgamves' repository for writers: https://github.com/malgamves/CommunityWriterPrograms
 
 # Areas where freelance platforms need to improve
 
