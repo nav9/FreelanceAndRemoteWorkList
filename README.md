@@ -138,7 +138,8 @@ Attribution: Some of these I found [here](https://writingcooperative.com/10-paid
 * https://www.freelancewriting.com/ (poor website and support)  
 * https://www.writeraccess.com/  
 * https://www.ndash.com/  
-* https://powerpublish.io/ (appears to provide no extra mediation support)  
+* https://powerpublish.io/ (appears to provide no extra mediation support)
+* https://www.contentturbine.com/freelance 
   
 # For interview engineers  
 The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%. For example, one charged clients $25 per interview, and offered interviewers less than $9.  
