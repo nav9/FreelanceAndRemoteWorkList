@@ -55,7 +55,9 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://underdog.io/
 * https://ripplematch.com/
 * https://www.candidatelabs.com/
-* https://www.planted.com* 
+* https://www.planted.com
+* https://ratracerebellion.com/job-postings/
+* https://falanderservices.websites.co.in/products/list 
   
 # For software programmers  
 * https://www.outsourcely.com/  
@@ -99,6 +101,8 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.workatastartup.com/
 * https://wellfound.com/jobs
 * https://www.roberthalf.com/us/en (has some poor reviews)
+* https://remote3.co/web3-jobs
+* https://slashdev.io/
  
 # Teaching  
 Attribution: Some were listed [here](https://www.teachaway.com/blog/8-amazing-companies-let-you-teach-english-online-from-home). There are many more you can search for on the internet.
@@ -108,10 +112,12 @@ Attribution: Some were listed [here](https://www.teachaway.com/blog/8-amazing-co
 * https://www.myprivatetutor.com/  
 * https://www.teacheron.com/  
 * https://network.vipkid.com/  
-* https://www.vedantu.com/become-a-teacher  
+* https://www.vedantu.com/become-a-teacher
+* https://jobs.cambly.com/
 
 # Virtual assistants  
-* https://www.zirtual.com/  
+* https://www.zirtual.com/
+* Help the visually impaired: https://aira.io/careers/
 
 # Website testing  
 Attribution: I found these [here](https://medium.com/@hananimran287/earn-money-by-testing-websites-100-a-day-a19b881336bf). More [here](https://www.homeworkingclub.com/user-testing-sites/).
@@ -161,7 +167,9 @@ The sad part of many of these platforms, is that they do not pay well. Many take
 # Bug bounties  
 An internet search for “bug bounty programs” will show more. Be aware of ethics and legalities.  
 * https://www.bugcrowd.com/bug-bounty-list/  
-* https://hackerone.com/bug-bounty-programs   
+* https://hackerone.com/bug-bounty-programs
+* https://console.algora.io/
+* https://yeswehack.com/programs 
   
 # Business / management / marketing  
 * https://businesstalentgroup.com/  
@@ -193,6 +201,7 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * [Brad’s list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be).
 * Homeworkingclub has [this](https://www.homeworkingclub.com/companies-that-hire-homeworkers/) and [this](https://www.homeworkingclub.com/online-jobs/%20Interviews:%20https://remotehabits.com/interviews/) for jobs in tech firms, healthcare, customer service, travel, secretary, translation/transcription, finance, non-profit, writing and editing, foreign languages, sales, education, HR, crypto, creatives and personal development. There’s [this](https://www.homeworkingclub.com/paid-market-research/) for paid market research, [this](https://www.homeworkingclub.com/best-survey-sites/) for survey sites, [this](https://www.homeworkingclub.com/sites-like-mturk/) for micro-work, and [this](https://www.homeworkingclub.com/online-side-jobs/) for other side-jobs.
 * Malgamves' repository for writers: https://github.com/malgamves/CommunityWriterPrograms
+* Paid open source projects: https://github.com/kunovsky/paid-open-source-projects
 
 # Areas where freelance platforms need to improve
 
