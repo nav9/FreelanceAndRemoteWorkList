@@ -145,7 +145,8 @@ Attribution: Some of these I found [here](https://writingcooperative.com/10-paid
 * https://www.writeraccess.com/  
 * https://www.ndash.com/  
 * https://powerpublish.io/ (appears to provide no extra mediation support)
-* https://www.contentturbine.com/freelance 
+* https://www.contentturbine.com/freelance
+* Malgamves' repository for writers: https://github.com/malgamves/CommunityWriterPrograms
   
 # For interview engineers  
 The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%. For example, one charged clients $25 per interview, and offered interviewers less than $9.  
@@ -194,13 +195,14 @@ While you may worry that sharing the list increases competition, it actually hel
 Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/wiki/Digital_nomad#toc-Legality), so with needs [some planning](https://www.gooverseas.com/blog/how-to-become-digital-nomad).  
 * https://nomadlist.com/  
 * https://digitalnomads.world/  
-* https://workwanderers.com/   
+* https://workwanderers.com/
+* Volunteer for tasks at places where hosts allow free stay and meals, while you work online or travel in the spare time: https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/.
  
-# More  
+# More Jobs  
 * [Yanir’s repository](https://github.com/yanirs/established-remote).
 * [Brad’s list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be).
 * Homeworkingclub has [this](https://www.homeworkingclub.com/companies-that-hire-homeworkers/) and [this](https://www.homeworkingclub.com/online-jobs/%20Interviews:%20https://remotehabits.com/interviews/) for jobs in tech firms, healthcare, customer service, travel, secretary, translation/transcription, finance, non-profit, writing and editing, foreign languages, sales, education, HR, crypto, creatives and personal development. There’s [this](https://www.homeworkingclub.com/paid-market-research/) for paid market research, [this](https://www.homeworkingclub.com/best-survey-sites/) for survey sites, [this](https://www.homeworkingclub.com/sites-like-mturk/) for micro-work, and [this](https://www.homeworkingclub.com/online-side-jobs/) for other side-jobs.
-* Malgamves' repository for writers: https://github.com/malgamves/CommunityWriterPrograms
+* Job sites for people above 40 or 50: [Naukri40–45](https://www.naukri.com/within-age-group-40-to-45-jobs), [Workforce50](https://www.workforce50.com/), [retiredBrains](https://www.retiredbrains.com/index.html), [seniors4hire](https://www.seniors4hire.org/), [advaara](https://www.advarra.com/consulting-services/), [40-plus](https://www.40plus-dc.org/), [rentaGrandma](https://rentagrandma.com/), [retirementjobs](https://www.retirementjobs.com/), [wahve](https://wahve.com/), [aarp](https://jobs.aarp.org/), [newSolutions](https://newsolutions.org/).
 * Paid open source projects: https://github.com/kunovsky/paid-open-source-projects
 
 # Areas where freelance platforms need to improve
