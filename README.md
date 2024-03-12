@@ -202,11 +202,11 @@ Attribution: From [here](https://dribbble.com/resources/best-freelance-websites)
 While you may worry that sharing the list increases competition, it actually helps keep the good ones running. So in the event of mass-layoffs, you will be able to find freelance gigs and stay afloat. Hopefully (wishful thinking), it’d also encourage employers to treat employees better. This list needs to be kept up-to-date too.  
    
 # Travel while working online  
-Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/wiki/Digital_nomad#toc-Legality), so with needs [some planning](https://www.gooverseas.com/blog/how-to-become-digital-nomad).  
+Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/wiki/Digital_nomad#toc-Legality), but be [be well prepared before starting](https://www.gooverseas.com/blog/how-to-become-digital-nomad). Be careful if planning to stay with strangers.   
 * https://nomadlist.com/  
 * https://digitalnomads.world/  
 * https://workwanderers.com/
-* Volunteer for tasks at places where hosts allow free stay and meals, while you work online or travel in the spare time: https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/.
+* https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/..
  
 # More Jobs  
 * [Yanir’s repository](https://github.com/yanirs/established-remote).
