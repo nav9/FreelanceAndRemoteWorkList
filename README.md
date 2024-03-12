@@ -57,7 +57,9 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.candidatelabs.com/
 * https://www.planted.com
 * https://ratracerebellion.com/job-postings/
-* https://falanderservices.websites.co.in/products/list 
+* https://falanderservices.websites.co.in/products/list
+* https://www.clickworker.com/
+* https://www.mturk.com/
   
 # For software programmers  
 * https://www.outsourcely.com/  
@@ -147,6 +149,14 @@ Attribution: Some of these I found [here](https://writingcooperative.com/10-paid
 * https://powerpublish.io/ (appears to provide no extra mediation support)
 * https://www.contentturbine.com/freelance
 * Malgamves' repository for writers: https://github.com/malgamves/CommunityWriterPrograms
+
+# Transcriptions
+* https://gotranscript.com/
+* https://www.transcribeme.com/
+* https://www.rev.com/
+* https://waywithwordsjobs.com/
+* https://scribie.com/transcription/freelance
+* https://transcriptionhub.com/
   
 # For interview engineers  
 The sad part of many of these platforms, is that they do not pay well. Many take a 70% commission, when they should actually take no more than 10% or definitely not more than 30%. For example, one charged clients $25 per interview, and offered interviewers less than $9.  
