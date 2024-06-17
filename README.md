@@ -60,6 +60,11 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://falanderservices.websites.co.in/products/list
 * https://www.clickworker.com/
 * https://www.mturk.com/
+* https://www.remotasks.com
+* AI jobs: https://www.moaijobs.com/
+* https://www.oneforma.com/jobs/
+* https://talendroid.com/openings
+* For Indians: https://taskmo.com/job-search-app
   
 # For software programmers  
 * https://www.outsourcely.com/  
@@ -120,6 +125,7 @@ Attribution: Some were listed [here](https://www.teachaway.com/blog/8-amazing-co
 # Virtual assistants  
 * https://www.zirtual.com/
 * Help the visually impaired: https://aira.io/careers/
+* https://taskburst.com/
 
 # Website testing  
 Attribution: I found these [here](https://medium.com/@hananimran287/earn-money-by-testing-websites-100-a-day-a19b881336bf). More [here](https://www.homeworkingclub.com/user-testing-sites/).
@@ -206,7 +212,7 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * https://nomadlist.com/  
 * https://digitalnomads.world/  
 * https://workwanderers.com/
-* https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/..
+* https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/.
  
 # More Jobs  
 * [Yanir’s repository](https://github.com/yanirs/established-remote).
