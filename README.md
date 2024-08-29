@@ -127,13 +127,17 @@ Attribution: Some were listed [here](https://www.teachaway.com/blog/8-amazing-co
 * Help the visually impaired: https://aira.io/careers/
 * https://taskburst.com/
 
-# Website testing  
-Attribution: I found these [here](https://medium.com/@hananimran287/earn-money-by-testing-websites-100-a-day-a19b881336bf). More [here](https://www.homeworkingclub.com/user-testing-sites/).
+# Website/App/Product/User Testing
+Attribution: I found these [here](https://medium.com/@hananimran287/earn-money-by-testing-websites-100-a-day-a19b881336bf). More [here](https://www.homeworkingclub.com/user-testing-sites/) and [here](https://medium.com/illuminations-mirror/top-9-untouched-websites-to-earn-money-online-easy-2823a54410d2).
 * https://www.usertesting.com/  
 * https://enrollapp.com/  
 * https://www.respondent.io/  
 * https://www.userfeel.com/  
-* https://www.userlytics.com/  
+* https://www.userlytics.com/
+* Test games: https://www.playtestcloud.com/
+* https://app.trymata.com/tester/signup
+* https://www.userinterviews.com/
+* Mystery shopping: https://www.bestmark.com/become-a-mystery-shopper/
 
 # For writers  
 Attribution: Some of these I found [here](https://writingcooperative.com/10-paid-writing-gigs-you-can-earn-500-to-1500-per-article-48ef5a45fc46).
