@@ -65,6 +65,8 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.oneforma.com/jobs/
 * https://talendroid.com/openings
 * For Indians: https://taskmo.com/job-search-app
+* Portugal: https://github.com/marmelo/tech-companies-in-portugal
+* https://flexa.careers/in/jobs
   
 # For software programmers  
 * https://www.outsourcely.com/  
