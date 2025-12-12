@@ -18,7 +18,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.guru.com/  
 * https://www.freelancer.com/  
 * https://www.peopleperhour.com/  
-* https://working-nomads.com/ (possibly good)  
+* https://www.workingnomads.com/  
 * https://solidgigs.com/ (has some poor reviews)  
 * https://www.bark.com/en/in/ (has some poor reviews)  
 * https://jointohire.com/ (has some poor reviews)  
