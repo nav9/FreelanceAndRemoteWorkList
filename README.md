@@ -226,6 +226,8 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * Homeworkingclub has [this](https://www.homeworkingclub.com/companies-that-hire-homeworkers/) and [this](https://www.homeworkingclub.com/online-jobs/%20Interviews:%20https://remotehabits.com/interviews/) for jobs in tech firms, healthcare, customer service, travel, secretary, translation/transcription, finance, non-profit, writing and editing, foreign languages, sales, education, HR, crypto, creatives and personal development. There’s [this](https://www.homeworkingclub.com/paid-market-research/) for paid market research, [this](https://www.homeworkingclub.com/best-survey-sites/) for survey sites, [this](https://www.homeworkingclub.com/sites-like-mturk/) for micro-work, and [this](https://www.homeworkingclub.com/online-side-jobs/) for other side-jobs.
 * Job sites for people above 40 or 50: [Naukri40–45](https://www.naukri.com/within-age-group-40-to-45-jobs), [Workforce50](https://www.workforce50.com/), [retiredBrains](https://www.retiredbrains.com/index.html), [seniors4hire](https://www.seniors4hire.org/), [advaara](https://www.advarra.com/consulting-services/), [40-plus](https://www.40plus-dc.org/), [rentaGrandma](https://rentagrandma.com/), [retirementjobs](https://www.retirementjobs.com/), [wahve](https://wahve.com/), [aarp](https://jobs.aarp.org/), [newSolutions](https://newsolutions.org/).
 * Paid open source projects: https://github.com/kunovsky/paid-open-source-projects
+* Confidential job search: https://mirajobs.com/jobs, https://www.teamblind.com/jobs.
+* Probable healthy work environments: https://www.hired.org/
 
 # Areas where freelance platforms need to improve
 
