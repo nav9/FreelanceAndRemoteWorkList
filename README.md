@@ -72,7 +72,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.outsourcely.com/  
 * https://hasjob.co/
 * https://www.realworkfromanywhere.com/
-* https://www.keyvalues.com/remote-developer-jobs 
+* https://www.keyvalues.com/remote-developer-jobs (no longer operational but I'm leaving it here since it was such a nice website)
 * https://www.realworkfromanywhere.com/
 * https://golance.com/ (possibly good)  
 * https://hired.com/  
