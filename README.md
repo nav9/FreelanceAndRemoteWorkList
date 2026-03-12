@@ -67,6 +67,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * For Indians: https://taskmo.com/job-search-app
 * Portugal: https://github.com/marmelo/tech-companies-in-portugal
 * https://flexa.careers/in/jobs
+* For Indian students: https://timbuckdo.com/
   
 # For software programmers  
 * https://www.outsourcely.com/  
