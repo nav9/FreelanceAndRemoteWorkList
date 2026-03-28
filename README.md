@@ -155,7 +155,7 @@ Attribution: Some of these I found [here](https://writingcooperative.com/10-paid
 * https://longreads.com/submissions/  
 * https://www.ptotoday.com/pto-today-submission-guidelines  
 * https://www.americanangler.com/wp-content/cache/page_enhanced/www.americanangler.com/submissions/_index.html  
-* https://www.clearvoice.com/blog/how-much-to-pay-a-freelance-writer/  
+* https://www.clearvoice.com/ (no longer active)
 * https://www.freelancewriting.com/ (poor website and support)  
 * https://www.writeraccess.com/  
 * https://www.ndash.com/  
