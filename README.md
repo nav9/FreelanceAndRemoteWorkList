@@ -68,6 +68,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * Portugal: https://github.com/marmelo/tech-companies-in-portugal
 * https://flexa.careers/in/jobs
 * For Indian students: https://timbuckdo.com/
+* https://www.wfhalert.com/
   
 # For software programmers  
 * https://www.outsourcely.com/  
