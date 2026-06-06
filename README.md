@@ -114,7 +114,11 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.roberthalf.com/us/en (has some poor reviews)
 * https://remote3.co/web3-jobs
 * https://slashdev.io/
+* Italy: https://recruiting.welyk.tech/jobs
+
+# AI job finders
 * https://www.foundrole.com/
+* https://www.jackandjill.ai/jack
  
 # Teaching  
 Attribution: Some were listed [here](https://www.teachaway.com/blog/8-amazing-companies-let-you-teach-english-online-from-home). There are many more you can search for on the internet.
@@ -224,8 +228,7 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/.
  
 # More Jobs  
-* [Yanir’s repository](https://github.com/yanirs/established-remote).
-* [Brad’s list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be).
+* See [Yanir's repository](https://github.com/yanirs/established-remote), [Brad's list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be), [ArtJustine's list](https://github.com/ArtJustine/Awesome-Web-Developer-Career-Resources), [Dariat's list](https://github.com/dariatsvetkova/junior-dev-career), [mkassm's list](https://github.com/mkassm/awesome-remote-working), [sjamilla's list](https://github.com/Sjamilla/awesome-recruitment), [hdehal's list](https://github.com/hdehal/job-search-resources), [cbovis's list](https://github.com/cbovis/awesome-digital-nomads), [Randall's list](https://github.com/randallkanna/awesome-job-list), [barroso's list](https://github.com/barrosohub/remote-jobs-for-devs), [kelset's list](https://github.com/kelset/job-hunting-resources), [yuhonas's list](https://github.com/yuhonas/awesome-job-seeking), [trinh's list](https://github.com/trinhminhtriet/awesome-job-boards/tree/master), [Dhanush's list](https://github.com/DhanushNehru/Ultimate-Tech-Jobs), [ugglr's list](https://github.com/ugglr/Remote-Developer-jobs-directory), [dbz's list](https://github.com/Dbz/job-board), [aliammari's list](https://github.com/aliammari1/awesome-ai-tools), [mjeaton's list](https://github.com/mjeaton/job-search-resources/tree/main).
 * Homeworkingclub has [this](https://www.homeworkingclub.com/companies-that-hire-homeworkers/) and [this](https://www.homeworkingclub.com/online-jobs/%20Interviews:%20https://remotehabits.com/interviews/) for jobs in tech firms, healthcare, customer service, travel, secretary, translation/transcription, finance, non-profit, writing and editing, foreign languages, sales, education, HR, crypto, creatives and personal development. There’s [this](https://www.homeworkingclub.com/paid-market-research/) for paid market research, [this](https://www.homeworkingclub.com/best-survey-sites/) for survey sites, [this](https://www.homeworkingclub.com/sites-like-mturk/) for micro-work, and [this](https://www.homeworkingclub.com/online-side-jobs/) for other side-jobs.
 * Job sites for people above 40 or 50: [Naukri40–45](https://www.naukri.com/within-age-group-40-to-45-jobs), [Workforce50](https://www.workforce50.com/), [retiredBrains](https://www.retiredbrains.com/index.html), [seniors4hire](https://www.seniors4hire.org/), [advaara](https://www.advarra.com/consulting-services/), [40-plus](https://www.40plus-dc.org/), [rentaGrandma](https://rentagrandma.com/), [retirementjobs](https://www.retirementjobs.com/), [wahve](https://wahve.com/), [aarp](https://jobs.aarp.org/), [newSolutions](https://newsolutions.org/).
 * Paid open source projects: https://github.com/kunovsky/paid-open-source-projects
