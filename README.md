@@ -114,6 +114,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.roberthalf.com/us/en (has some poor reviews)
 * https://remote3.co/web3-jobs
 * https://slashdev.io/
+* https://www.foundrole.com/
  
 # Teaching  
 Attribution: Some were listed [here](https://www.teachaway.com/blog/8-amazing-companies-let-you-teach-english-online-from-home). There are many more you can search for on the internet.
