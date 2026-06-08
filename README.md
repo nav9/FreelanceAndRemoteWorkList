@@ -45,7 +45,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://taldive.com/
 * https://www.deel.com (has some poor reviews)
 * Tech support: https://www.supportadventure.com/remote-jobs/
-* https://hiring.cafe/
 * https://www.remotehub.com/jobs (has some poor reviews)
 * https://www.skipthedrive.com/ (has some poor reviews)
 * https://jobboard.io/
