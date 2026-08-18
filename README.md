@@ -226,6 +226,19 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * https://digitalnomads.world/  
 * https://workwanderers.com/
 * https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/.
+
+# For people with disabilities and invisible disabilities (not necessarily freelance)
+* https://www.evenbreak.com/
+* https://www.making-space.com/
+* https://globalcareers.ai/campaign/global-careers-for-persons-with-disabilities
+* https://sourceabled.com/
+* https://www.nticentral.org/
+* https://atypicaladvantage.in/
+* https://www.enableindia.org/livelihood/pwd-services/
+* https://youth4jobs.org/
+* https://ncpedp.org/
+* https://sarthakindia.org/
+* https://wearecapable.org/
  
 # More Jobs  
 * See [Yanir's repository](https://github.com/yanirs/established-remote), [Brad's list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be), [ArtJustine's list](https://github.com/ArtJustine/Awesome-Web-Developer-Career-Resources), [Dariat's list](https://github.com/dariatsvetkova/junior-dev-career), [mkassm's list](https://github.com/mkassm/awesome-remote-working), [sjamilla's list](https://github.com/Sjamilla/awesome-recruitment), [hdehal's list](https://github.com/hdehal/job-search-resources), [cbovis's list](https://github.com/cbovis/awesome-digital-nomads), [Randall's list](https://github.com/randallkanna/awesome-job-list), [barroso's list](https://github.com/barrosohub/remote-jobs-for-devs), [kelset's list](https://github.com/kelset/job-hunting-resources), [yuhonas's list](https://github.com/yuhonas/awesome-job-seeking), [trinh's list](https://github.com/trinhminhtriet/awesome-job-boards/tree/master), [Dhanush's list](https://github.com/DhanushNehru/Ultimate-Tech-Jobs), [ugglr's list](https://github.com/ugglr/Remote-Developer-jobs-directory), [dbz's list](https://github.com/Dbz/job-board), [aliammari's list](https://github.com/aliammari1/awesome-ai-tools), [mjeaton's list](https://github.com/mjeaton/job-search-resources/tree/main).
