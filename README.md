@@ -86,7 +86,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://crewscale.com/  
 * https://www.turing.com/ (has some poor reviews)  
 * https://weworkremotely.com/ (has some poor reviews)
-* https://www.flexjobs.com/ (possibly good)
 * https://www.codementor.io/software-architect-experts  
 * Sell code: https://git.market/about  
 * https://codecanyon.net/ (has some poor reviews) 
@@ -115,6 +114,10 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://remote3.co/web3-jobs
 * https://slashdev.io/
 * Italy: https://recruiting.welyk.tech/jobs
+
+# Flexible work schedule
+* https://www.flexjobs.com/ (possibly good)
+* https://flexa.careers/in
 
 # AI job finders
 * https://www.foundrole.com/
@@ -215,19 +218,10 @@ Attribution: From [here](https://dribbble.com/resources/best-freelance-websites)
 * https://dribbble.com/  
 * https://99designs.com/  
 * https://www.designhill.com/  
-* https://www.twine.net/  
- 
-# Why share this list?  
-While you may worry that sharing the list increases competition, it actually helps keep the good ones running. So in the event of mass-layoffs, you will be able to find freelance gigs and stay afloat. Hopefully (wishful thinking), it’d also encourage employers to treat employees better. This list needs to be kept up-to-date too.  
-   
-# Travel while working online  
-Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/wiki/Digital_nomad#toc-Legality), but be [be well prepared before starting](https://www.gooverseas.com/blog/how-to-become-digital-nomad). Be careful if planning to stay with strangers.   
-* https://nomadlist.com/  
-* https://digitalnomads.world/  
-* https://workwanderers.com/
-* https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/.
+* https://www.twine.net/
 
-# For people with disabilities and invisible disabilities (not necessarily freelance)
+# For people with disabilities and [invisible disabilities](https://en.wikipedia.org/wiki/Invisible_disability)
+Some of these jobs are not necessarily freelance, but I'm listing it for anyone it may help. Apart from these, there are companies like Microsoft, SAP, IBM, Accenture, Dell, Google, Intel, Cisco, Atlassian, HCL Tech, Crisil, Reliance Retail, Allianz Tech, Amazon, Zepto, Godrej, Nestle, Tata Motors, Nivea, HDFC Ergo, Asian Paints, Mahindra Logistics, PhonePe, Pepperfry, Leela palace, PwC, Zensar, Great Place to Work, Vacker Global, TCS and Nivea which I understand have opportunities for persons with disabilities.
 * https://www.evenbreak.com/
 * https://www.making-space.com/
 * https://globalcareers.ai/campaign/global-careers-for-persons-with-disabilities
@@ -239,6 +233,22 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * https://ncpedp.org/
 * https://sarthakindia.org/
 * https://wearecapable.org/
+* https://rkycareers.com/job-openings/
+* https://abilityjobs.com/
+* https://resources.vercida.com/jobs-for-disabled-people/
+* https://www.myability.jobs/at/
+* At the [European council](https://www.consilium.europa.eu/en/general-secretariat/careers/job-opportunities-at-the-gsc/job-opportunities-for-persons-with-disabilities/) and [EURES portal](https://eures.europa.eu/find-information-employment-and-support-persons-disabilities-eures-portal-2026-02-02_en).
+* https://www.inclusion.eu/careers
+ 
+# Why share this list?  
+While you may worry that sharing the list increases competition, it actually helps keep the good ones running. So in the event of mass-layoffs, you will be able to find freelance gigs and stay afloat. Hopefully (wishful thinking), it’d also encourage employers to treat employees better. This list needs to be kept up-to-date too.  
+   
+# Travel while working online  
+Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/wiki/Digital_nomad#toc-Legality), but be [be well prepared before starting](https://www.gooverseas.com/blog/how-to-become-digital-nomad). Be careful if planning to stay with strangers.   
+* https://nomadlist.com/  
+* https://digitalnomads.world/  
+* https://workwanderers.com/
+* https://www.workaway.info/, https://helpstay.com/, https://www.helpx.net/, https://www.couchsurfing.com/.
  
 # More Jobs  
 * See [Yanir's repository](https://github.com/yanirs/established-remote), [Brad's list](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be), [ArtJustine's list](https://github.com/ArtJustine/Awesome-Web-Developer-Career-Resources), [Dariat's list](https://github.com/dariatsvetkova/junior-dev-career), [mkassm's list](https://github.com/mkassm/awesome-remote-working), [sjamilla's list](https://github.com/Sjamilla/awesome-recruitment), [hdehal's list](https://github.com/hdehal/job-search-resources), [cbovis's list](https://github.com/cbovis/awesome-digital-nomads), [Randall's list](https://github.com/randallkanna/awesome-job-list), [barroso's list](https://github.com/barrosohub/remote-jobs-for-devs), [kelset's list](https://github.com/kelset/job-hunting-resources), [yuhonas's list](https://github.com/yuhonas/awesome-job-seeking), [trinh's list](https://github.com/trinhminhtriet/awesome-job-boards/tree/master), [Dhanush's list](https://github.com/DhanushNehru/Ultimate-Tech-Jobs), [ugglr's list](https://github.com/ugglr/Remote-Developer-jobs-directory), [dbz's list](https://github.com/Dbz/job-board), [aliammari's list](https://github.com/aliammari1/awesome-ai-tools), [mjeaton's list](https://github.com/mjeaton/job-search-resources/tree/main).
