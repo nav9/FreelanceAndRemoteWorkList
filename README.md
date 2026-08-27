@@ -114,10 +114,15 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://remote3.co/web3-jobs
 * https://slashdev.io/
 * Italy: https://recruiting.welyk.tech/jobs
+* https://www.reactsquad.io/
+* https://bridgeteams.com/
+* https://x-team.com/
+* https://himalayas.app/jobs
 
 # Flexible work schedule
 * https://www.flexjobs.com/ (possibly good)
 * https://flexa.careers/in
+* https://workingasync.io/
 
 # AI job finders
 * https://www.foundrole.com/
@@ -219,6 +224,7 @@ Attribution: From [here](https://dribbble.com/resources/best-freelance-websites)
 * https://99designs.com/  
 * https://www.designhill.com/  
 * https://www.twine.net/
+* https://www.behance.net/
 
 # For people with disabilities and [invisible disabilities](https://en.wikipedia.org/wiki/Invisible_disability)
 Some of these jobs are not necessarily freelance, but I'm listing it for anyone it may help. Apart from these, there are companies like Microsoft, SAP, IBM, Accenture, Dell, Google, Intel, Cisco, Atlassian, HCL Tech, Crisil, Reliance Retail, Allianz Tech, Amazon, Zepto, Godrej, Nestle, Tata Motors, Nivea, HDFC Ergo, Asian Paints, Mahindra Logistics, PhonePe, Pepperfry, Leela palace, PwC, Zensar, Great Place to Work, Vacker Global, TCS and Nivea which I understand have opportunities for persons with disabilities.
