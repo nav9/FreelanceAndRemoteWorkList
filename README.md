@@ -5,7 +5,7 @@ I started building this list when I realized that most software companies pit em
 
 **IMPORTANT: The information below was obtained from internet searches, so please use commonsense and due caution when accessing these links that are ordered randomly.**
 
-If you’d like to add to the list or mention which ones are reliable, easy to use, pay well and treat freelancers well, please mention them in the [discussions](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) section.
+If you’d like to add to the list or mention which ones are reliable, easy to use, pay well and treat freelancers well, please mention them in the [discussions](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) section or submit a pull request.
 
 # General (has various types of jobs)  
 * Aggregator: https://remote4me.com/
