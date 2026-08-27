@@ -70,6 +70,8 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.wfhalert.com/
 * https://www.remoteatlas.app/
 * https://arc.dev/
+* https://dynamitejobs.com/
+* https://surelyremote.com/
   
 # For software programmers  
 * https://www.outsourcely.com/  
@@ -119,6 +121,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://bridgeteams.com/
 * https://x-team.com/
 * https://himalayas.app/jobs
+* Internships: https://www.outreachy.org/
 
 # Flexible work schedule
 * https://www.flexjobs.com/ (possibly good)
@@ -177,6 +180,8 @@ Attribution: Some of these I found [here](https://writingcooperative.com/10-paid
 * https://powerpublish.io/ (appears to provide no extra mediation support)
 * https://www.contentturbine.com/freelance
 * Malgamves' repository for writers: https://github.com/malgamves/CommunityWriterPrograms
+* https://www.superpath.co/about
+
 
 # Transcriptions
 * https://gotranscript.com/
@@ -214,6 +219,7 @@ An internet search for “bug bounty programs” will show more. Be aware of eth
 * https://businesstalentgroup.com/  
 * https://cofounderslab.com/  
 * https://aquent.com/ (possibly good)  
+* https://www.catalyte.io/apprenticeships/project-management/  
 
 # For artists  
 Attribution: From [here](https://dribbble.com/resources/best-freelance-websites) and [here](https://biz30.timedoctor.com/freelance-graphic-design-websites/#99designs).
