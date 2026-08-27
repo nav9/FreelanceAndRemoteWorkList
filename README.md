@@ -69,6 +69,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * For Indian students: https://timbuckdo.com/
 * https://www.wfhalert.com/
 * https://www.remoteatlas.app/
+* https://arc.dev/
   
 # For software programmers  
 * https://www.outsourcely.com/  
