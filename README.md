@@ -40,7 +40,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://contra.com/ (possibly good)
 * https://www.xing.com (has some poor reviews)
 * https://www.jobcase.com/ (has some poor reviews)
-* https://www.flexjobs.com/
 * https://www.zippia.com/ (has some poor reviews)
 * https://taldive.com/
 * https://www.deel.com (has some poor reviews)
@@ -124,7 +123,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * Internships: https://www.outreachy.org/
 
 # Flexible work schedule
-* https://www.flexjobs.com/ (possibly good)
+* https://www.flexjobs.com/ (possibly good but you can view jobs only if you pay first)
 * https://flexa.careers/in
 * https://workingasync.io/
 
