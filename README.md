@@ -64,7 +64,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://talendroid.com/openings
 * For Indians: https://taskmo.com/job-search-app
 * Portugal: https://github.com/marmelo/tech-companies-in-portugal
-* https://flexa.careers/in/jobs
 * For Indian students: https://timbuckdo.com/
 * https://www.wfhalert.com/
 * https://www.remoteatlas.app/
@@ -76,7 +75,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://hasjob.co/
 * https://www.realworkfromanywhere.com/
 * https://www.keyvalues.com/remote-developer-jobs (no longer operational but I'm leaving it here since it was such a nice website)
-* https://www.realworkfromanywhere.com/
 * https://golance.com/ (possibly good)  
 * https://hired.com/  
 * https://remoteok.com/  
