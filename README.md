@@ -70,7 +70,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.remoteatlas.app/
 * https://arc.dev/
 * https://dynamitejobs.com/
-* https://surelyremote.com/
   
 # For software programmers  
 * https://www.outsourcely.com/  
@@ -123,7 +122,6 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * Internships: https://www.outreachy.org/
 
 # Flexible work schedule
-* https://www.flexjobs.com/ (possibly good but you can view jobs only if you pay first)
 * https://flexa.careers/in
 * https://workingasync.io/
 
