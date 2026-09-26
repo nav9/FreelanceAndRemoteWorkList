@@ -265,6 +265,7 @@ Note that some countries offer a [digital nomad visa](https://en.wikipedia.org/w
 * Paid open source projects: https://github.com/kunovsky/paid-open-source-projects
 * Confidential job search: https://mirajobs.com/jobs, https://www.teamblind.com/jobs.
 * Probable healthy work environments: https://www.hired.org/
+* For techies returning to work after a break: https://www.techreturners.com
 
 # Areas where freelance platforms need to improve
 
