@@ -17,6 +17,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * For women: https://www.freelancingfemales.com/jobs  
 * https://www.guru.com/  
 * https://www.freelancer.com/  
+* Robot-training gigs (remote teleoperation, at-home video capture for AI training): https://robottraining.jobs/remote-robot-training-jobs
 * https://www.peopleperhour.com/  
 * https://www.workingnomads.com/  
 * https://solidgigs.com/ (has some poor reviews)  
