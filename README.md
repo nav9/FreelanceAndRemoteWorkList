@@ -70,7 +70,9 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://arc.dev/
 * https://dynamitejobs.com/
 * AI training jobs: https://aitrainer.jobs/
-  
+
+# WARNING: Just because a website is listed here it does not mean it is trustworthy. A person mentioned that one of the websites which I had listed which seemed good initially and which I had marked with a "(possibly good)", had eventually completely changed the content within it. There are also some people who have sent suggestions of adding websites, but some of them seem very new and I do not know how trustworthy the websites or the links within them might be. So always be cautious, do a few searches and ask around to find out if any job opportunities are trustworthy or whether they are scams. Do not blindly trust anyone or any website, no matter how legitimate it may seem. Always do multiple levels of verification.  
+   
 # For software programmers  
 * https://www.outsourcely.com/  
 * https://hasjob.co/
