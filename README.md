@@ -69,6 +69,7 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.remoteatlas.app/
 * https://arc.dev/
 * https://dynamitejobs.com/
+* AI training jobs: https://aitrainer.jobs/
   
 # For software programmers  
 * https://www.outsourcely.com/  
