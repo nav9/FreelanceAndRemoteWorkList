@@ -1,11 +1,10 @@
 # Freelance And Remote Work List
 A collection of opportunities available for freelancers and remote workers. The eventual aim would be to list reliable platforms/companies where people can find work or post job opportunities. As of now not all the listings are vetted. With the help of the online community, I hope this could become a more reliable list so that it'd help people who are looking for jobs and so that it'd also help freelance platforms build healthy experiences for employers and workers. Sharing the list helps keeps these platforms alive, so in the event of mass layoffs, people will be able to find freelance gigs to survive.
-
-I started building this list when I realized that most software companies pit employees against each other and create toxic, pressure-cooker environments where speed of execution is more important than cooperation, stable code and health. After finding [The Real Cure for Eye Strain](https://nrecursions.blogspot.com/2020/11/the-real-cure-for-eye-strain.html), it became even more important to find opportunities that helped protect my health.
+After finding [The Real Cure for Eye Strain](https://nrecursions.blogspot.com/2020/11/the-real-cure-for-eye-strain.html), it became even more important to find opportunities that helped protect my health.
 
 **IMPORTANT: The information below was obtained from internet searches, so please use commonsense and due caution when accessing these links that are ordered randomly.**
 
-If you’d like to add to the list or mention which ones are reliable, easy to use, pay well and treat freelancers well, please mention them in the [discussions](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) section or submit a pull request.
+**If you’d like to add to the list or mention which ones are reliable, easy to use, pay well and treat freelancers well, please mention them in the [discussions](https://github.com/nav9/softwareFreelanceAndRemoteJobs/discussions) section and mention why the website is reliable.**
 
 # General (has various types of jobs)  
 * Aggregator: https://remote4me.com/
@@ -69,8 +68,14 @@ If you’d like to add to the list or mention which ones are reliable, easy to u
 * https://www.remoteatlas.app/
 * https://arc.dev/
 * https://dynamitejobs.com/
+<<<<<<< HEAD
 * https://euremotejobs.com/
   
+=======
+
+# WARNING: Just because a website is listed here it does not mean it is trustworthy. A person mentioned that one of the websites which I had listed which seemed good initially and which I had marked with a "(possibly good)", had eventually completely changed the content within it. There are also some people who have sent suggestions of adding websites, but some of them seem very new and I do not know how trustworthy the websites or the links within them might be. So always be cautious, do a few searches and ask around to find out if any job opportunities are trustworthy or whether they are scams. Do not blindly trust anyone or any website, no matter how legitimate it may seem. Always do multiple levels of verification.  
+   
+>>>>>>> fe7dde8a006e7d1f617bb1d19bd528b7a29526a7
 # For software programmers  
 * https://www.outsourcely.com/  
 * https://hasjob.co/
