@@ -122,6 +122,9 @@ After finding [The Real Cure for Eye Strain](https://nrecursions.blogspot.com/20
 * Internships: https://www.outreachy.org/
 * https://proxify.io/
 * https://www.malt.com/
+* https://remoteleverage.com/marketplace/
+* https://www.remoterocketship.com
+* Vibe coding: [option1](https://www.upwork.com/freelance-jobs/vibe-coding/), [option2](https://www.goodvibecode.com/jobs/remote), [option3](https://vibecodecareers.com/).
 
 # Flexible work schedule
 * https://flexa.careers/in
